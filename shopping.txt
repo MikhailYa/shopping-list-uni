@@ -1,3 +1,4 @@
+bananen
 etwas noch
 some apples
 Das Fleishc 
@@ -6,4 +7,3 @@ ein paar Packungen von Milch
 Obst
 Paprika und Salat
 
->>>>>>> alpha
